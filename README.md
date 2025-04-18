@@ -23,4 +23,4 @@ Windows, 1С Платформа 8.3, EDT, БСП, Apache, Git, GitHub
 - "Механизмы печати"
 
 ### Сертификаты
-- [Сертификат 1С-Проффесионал]
+- [Сертификат 1С-Проффесионал](https://github.com/ObzhigalovSV/ObzhigalovSV/blob/main/certificate/1CProff.pdf)
