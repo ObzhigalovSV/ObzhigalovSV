@@ -10,7 +10,7 @@
 
 Windows, 1С Платформа 8.3, Apache, Git, GitHub, , MsSQL, С++, Borland C++
 
-### Вот, что я умею
+### Мои работы
 
-- Django, drf, docker, github actions, shell (https://github.com/netology-code/netomerch-backend)
-
+## Текущий проект
+- Проект **"Управление закупками ОМТС"**
