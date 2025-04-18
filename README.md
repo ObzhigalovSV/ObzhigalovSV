@@ -17,10 +17,10 @@ Windows, 1С Платформа 8.3, EDT, БСП, Apache, Git, GitHub
 - [**Кастомизация конфигурации «Управление IT-фирмой для компании «Ваш компьютерный мастер»**](https://github.com/ObzhigalovSV/DiplomFONECMID)
 
 ### Мои домашние работы по программе: 1С-программист: с нуля до middle.
-- "Решение задач оперативного учета"
-- "Решение задач бухгалтерского учета"
-- "Решение задач по бизнес-процессам"
-- "Механизмы печати"
+- ["Решение задач оперативного учета"](https://github.com/ObzhigalovSV/Netology_OperationalAccounting)
+- ["Решение задач бухгалтерского учета"](https://github.com/ObzhigalovSV/Netology_Accounting)
+- ["Решение задач по бизнес-процессам"](https://github.com/ObzhigalovSV/Netology_BusinessProcesses)
+- ["Механизмы печати"](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms)
 
 ### Сертификаты
 - [Сертификат 1С-Проффесионал](https://github.com/ObzhigalovSV/ObzhigalovSV/blob/main/certificate/1CProff.pdf)
