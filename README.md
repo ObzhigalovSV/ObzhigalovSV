@@ -13,7 +13,7 @@
 Windows, 1С Платформа 8.3, EDT, БСП, Apache, Git, GitHub
 
 ### Текущий проект
-- [**"Управление закупками ОМТС"**](https://github.com/ObzhigalovSV/Procurement_Management/tree/main) (В разработке. Бутет постоянно дополнятся)
+- [**"Управление закупками ОМТС"**](https://github.com/ObzhigalovSV/Procurement_Management/tree/main) (В разработке. Будет постоянно пополнятся)
 
 ### Дипломная работа 
 - [Кастомизация конфигурации «Управление IT-фирмой для компании «Ваш компьютерный мастер»](https://github.com/ObzhigalovSV/DiplomFONECMID)
