@@ -26,6 +26,4 @@ Windows, 1С Платформа 8.3, EDT, БСП, Apache, Git, GitHub
 ### Сертификаты
 - [Сертификат 1С-Проффесионал](https://github.com/ObzhigalovSV/ObzhigalovSV/blob/main/certificate/1CProff.pdf)
 - [Сертификат 1С-программист: с нуля до middle](https://github.com/ObzhigalovSV/ObzhigalovSV/blob/main/certificate/NetologyCertificate.pdf)
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+<p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/></p>
